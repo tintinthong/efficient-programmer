@@ -15,7 +15,7 @@
 - [ ] make form post into transaction to check duplicate entries by name/email
 
 ## NBA Analytics Dashboard 
-- [ ] make constant stream by api/ not csv 
+- [ ] make constant stream by api/ not csv
 
 ## NBA Kaggle
 - [ ] find way to bulk explore data 
@@ -31,9 +31,11 @@
 
 ## Vue OMDB Website
 - [ ] put rating in card 
-- [ ] filter by rating  
+- [ ] filter by rating
 
 ## Syllabus Template 
+- [ ] building draggable divison screen 
+- [ ] make trello draggable
 
 ## Exercism R
 - [ ] do question 
