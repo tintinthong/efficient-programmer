@@ -51,8 +51,9 @@ In the spirit of good programming practice, I allocate a my final task in a sect
 
 Some of these task require that I need to learn and understand new concepts, for example, learning a new framework. These are great vacuums of productivity. Hence, any learning will not be included and occur at my own time. 
 
+#### Preparation 
 
-
+Firstly, always always always think about solving your problems outside of the allocated schedule time. Encourage yourself to peek at your code even before you approach it. Secondly, always think about updating your master list with task. 
 
 
 
