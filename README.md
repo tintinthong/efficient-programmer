@@ -53,7 +53,7 @@ Some of these task require that I need to learn and understand new concepts, for
 
 #### Preparation 
 
-Firstly, always always always think about solving your problems outside of the allocated schedule time. Encourage yourself to peek at your code even before you approach it. Secondly, always think about updating your master list with task. 
+Firstly, always always always think about solving your problems outside of the allocated schedule time. Encourage yourself to peek at your code even before you approach it; in fact, just do your task before the allocated time if you want. Secondly, always think about updating your master list with task.
 
 
 
