@@ -9,26 +9,26 @@ Every night before I go to sleep, I list out the programming task I need to comp
 -- Morning -- 
 
 Section 1 
-- [] task1
-- [] task2
-- [] task3
-- [] refactor
+- [x] task1
+- [x] task2
+- [x] task3
+- [ ] refactor
 
 -- Afternoon --
 
 Section 2 
-- [] task4
-- [] refactor
+- [ ] task4
+- [ ] refactor
 
 Section 3 
-- [] task5
-- [] task6
-- [] refactor 
+- [ ] task5
+- [ ] task6
+- [ ] refactor 
 
 -- Evening --
 
 Section 4 
-- [] task7
+- [ ] task7
 
 -- End -- 
 
