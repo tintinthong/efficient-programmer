@@ -1,3 +1,7 @@
+## Instructions
+
+Copy these items to your daily schedule. 
+
 ## Work
 
 ## RShiny Psychology App
