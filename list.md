@@ -6,7 +6,7 @@
 - [ ] do login for new person
 - [ ] post data to google sheets
 
-## AirBnb Platform 
+## Experience Platform 
 - [ ] incorporate db with card posts using handlebars
 - [ ] make filter with db 
 - [ ] edit simulated data json to follow form post
