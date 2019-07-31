@@ -7,6 +7,7 @@ Copy these items to your daily schedule.
 ## RShiny Psychology App
 - [ ] get bargraph to be stacking upwards 
 - [ ] position ui so that different screen size
+- [ ] adjust number of score such that aligned with word (40 mins)
 
 ## Experience Platform 
 - [ ] incorporate db with card posts using handlebars
@@ -23,11 +24,6 @@ Copy these items to your daily schedule.
 - [ ] explore missing values by count and graph 
 
 ## Hangman Urban-Dictionary
-- [ ] get n words 
-- [ ] only use words that are not inside definition condition
-- [ ] fix why 'you win' is not working 
-- [ ] give answer after loss 
-- [ ] show button to restart upon finish 
 
 ## Vue OMDB Website
 - [ ] put rating in card 
