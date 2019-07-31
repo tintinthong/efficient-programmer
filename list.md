@@ -1,16 +1,24 @@
-## RShiny
+## Work 
 
-## NBA Analytics 
+## RShiny Psychology App
 
-## Google Sheets 
+## AirBnb Platform 
 
-## Macine Learning Book 
+## NBA Analytics Dashboard 
 
-## Exercism 
+## NBA Kaggle
+
+## Google Billing System
+
+## Exercism R
 
 ## Rust OEIS
 
-## RustR
+## Rust R
 
-## Work 
+## Hangman Urban-Dictionary
+
+## Chess R
+
+## Haskell Command Line
 
