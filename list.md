@@ -54,10 +54,16 @@
 - [ ] change
 - [ ] circular-buffer
 - [ ] clock
-- [ ] complet-numbers
+- [ ] complex-numbers
 - [ ] connect
 - [ ] counter
 - [ ] custom-set
+
+## Poker Pattern Matching 
+- [ ] getting best hand using `compareHand()`
+- [ ] make poker game 
+- [ ] port dealing cards 
+- [ ] port bettting model
 
 ## Google Billing System
 
@@ -66,6 +72,8 @@
 ## Rust R
 
 ## Chess R
+- [ ] unicode key value pair 
+- [ ] move for pawn, bishhop and horse
 
 ## Haskell 99 probs
 - [ ] 8
