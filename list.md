@@ -26,15 +26,12 @@ Copy these items to your daily schedule.
 ## Hangman Urban-Dictionary
 
 ## Vue OMDB Website
-- [ ] put rating in card 
-- [ ] filter by rating
 
 ## Syllabus Template 
 - [ ] building draggable divison screen 
 - [ ] make trello draggable
 
 ## Exercism R
-- [ ] accumulate
 - [ ] affine-ciphher
 - [ ] all-your-base
 - [ ] alphhametics
@@ -56,10 +53,7 @@ Copy these items to your daily schedule.
 - [ ] custom-set
 
 ## Poker Pattern Matching 
-- [ ] getting best hand using `compareHand()`
-- [ ] make poker game 
-- [ ] port dealing cards 
-- [ ] port bettting model
+
 
 ## Google Billing System
 
