@@ -38,7 +38,26 @@
 - [ ] make trello draggable
 
 ## Exercism R
-- [ ] do question 
+- [ ] accumulate
+- [ ] affine-ciphher
+- [ ] all-your-base
+- [ ] alphhametics
+- [ ] anagram
+- [ ] argmstrong-numbers 
+- [ ] atbash-cipher
+- [ ] bank-account
+- [ ] binary-search-tree
+- [ ] binary-search
+- [ ] binary
+- [ ] book-store
+- [ ] bowling 
+- [ ] change
+- [ ] circular-buffer
+- [ ] clock
+- [ ] complet-numbers
+- [ ] connect
+- [ ] counter
+- [ ] custom-set
 
 ## Google Billing System
 
@@ -48,5 +67,9 @@
 
 ## Chess R
 
-## Haskell Command Line
+## Haskell 99 probs
+- [ ] 8
+- [ ] 9
+- [ ] 10
+
 
