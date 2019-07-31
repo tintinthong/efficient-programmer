@@ -6,10 +6,6 @@ Copy these items to your daily schedule.
 
 ## RShiny Psychology App
 - [ ] get bargraph to be stacking upwards 
-- [ ] draw data from googlesheets and randomise
-- [ ] do login for new person
-- [ ] post data to google sheets
-- [ ] adjust number of score such that aligned with word
 - [ ] position ui so that different screen size
 
 ## Experience Platform 
