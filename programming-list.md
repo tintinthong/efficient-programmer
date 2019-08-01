@@ -49,6 +49,7 @@ Copy these items to your daily schedule.
 - [ ] custom-set
 
 ## Poker Pattern Matching 
+- [ ] debug `compareHand()`
 
 
 ## Google Billing System
