@@ -5,6 +5,7 @@ Copy these items to your daily schedule.
 ## Work
 
 ## RShiny Psychology App
+- [ ] add loading screen when uploading using `gs_upload()`
 
 
 ## Experience Platform 
