@@ -6,6 +6,7 @@ Copy these items to your daily schedule.
 
 ## RShiny Psychology App
 - [ ] add loading screen when uploading using `gs_upload()`
+- [ ] uploading to particular google drive
 
 
 ## Experience Platform 
