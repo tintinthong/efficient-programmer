@@ -24,6 +24,7 @@ Copy these items to your daily schedule.
 - [ ] explore missing values by count and graph 
 
 ## Hangman Urban-Dictionary
+- [ ] must see that `play()` is using unparsed values `result.word` and `result.definition` -- don't double do parsing
 
 ## Vue OMDB Website
 
