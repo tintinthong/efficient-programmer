@@ -9,6 +9,7 @@ Copy these items to your daily schedule.
 - [ ] position ui so that different screen size
 - [ ] adjust number of score such that aligned with word (40 mins)
 - [ ] follow hugo random order 
+- [ ] work on changing uneven list into data frame with `gather()` and `plyr:ldp()`
 
 ## Experience Platform 
 - [ ] incorporate db with card posts using handlebars
