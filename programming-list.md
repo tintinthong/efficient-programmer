@@ -28,8 +28,6 @@ Copy these items to your daily schedule.
 - [ ] make trello draggable
 
 ## Exercism R
-- [ ] handle git problems affine-ciphehr
-- [x] affine-ciphher
 - [ ] all-your-base
 - [ ] alphhametics
 - [ ] anagram
