@@ -5,17 +5,10 @@ Copy these items to your daily schedule.
 ## Work
 
 ## RShiny Psychology App
-- [ ] get bargraph to be stacking upwards 
-- [ ] position ui so that different screen size
-- [ ] adjust number of score such that aligned with word (40 mins)
-- [ ] follow hugo random order 
-- [ ] work on changing uneven list into data frame with `gather()` and `plyr:ldp()`
+
 
 ## Experience Platform 
-- [ ] incorporate db with card posts using handlebars
-- [ ] extend filter features based on price, location
-- [ ] edit simulated data json to follow form post
-- [ ] make form post into transaction to check duplicate entries by name/email
+
 
 ## NBA Analytics Dashboard 
 - [ ] make constant stream by api/ not csv
