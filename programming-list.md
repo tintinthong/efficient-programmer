@@ -8,6 +8,7 @@ Copy these items to your daily schedule.
 - [ ] get bargraph to be stacking upwards 
 - [ ] position ui so that different screen size
 - [ ] adjust number of score such that aligned with word (40 mins)
+- [ ] follow hugo random order 
 
 ## Experience Platform 
 - [ ] incorporate db with card posts using handlebars
