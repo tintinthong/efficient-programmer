@@ -214,3 +214,7 @@ Be patient to wait
 ```
 <no-of-lines>O
 ```
+
+# Positioning Hands
+
+Feel bumps of `j` to mean down. 
