@@ -5,3 +5,9 @@ CMD+Shift+]
 CMD+Shift+[
 ```
 
+## Changing Focus between terminal and script 
+
+```
+Ctrl+`
+Ctrl+1      
+```
