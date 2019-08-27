@@ -1,8 +1,19 @@
 # efficient-programmer
 
-## Description 
+This is a repo about my collected practices of speeding up my programming. 
 
-This is a repo including my daily todo lists. I do not follow the pomodoro technique exactly, although I do follow a loose-version of the pomodoro technique. 
+My workflow includes:
+
+1. Mac
+2. Terminal 
+3. Vim
+4. VS Code
+5. R Studio
+6. Google Chrome / Chrome Developer Tools
+
+## Todo System
+
+Here I also share my daily todo lists. I do not follow the pomodoro technique exactly, although I do follow a loose-version of the pomodoro technique. 
 
 Every night before I go to sleep, I list out the programming task I need to complete (with predicted duration). By referring to that list, I make a realistic schedule of what tasks I should do the next day. The schedule looks something like this:
 
