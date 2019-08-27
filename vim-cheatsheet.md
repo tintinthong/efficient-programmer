@@ -4,6 +4,7 @@ Personalised list of vim commands that help speed up coding efficiency
 - Do not enter insert mode
 - Stop using hjkl (remove fine-grainedness)
 - Use f and t 
+- Type less and be fast. Not type more and sound fast.
 
 # Disable Keys
 
