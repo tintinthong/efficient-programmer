@@ -9,5 +9,6 @@ My workflow includes:
 3. Vim
 4. VS Code
 5. R Studio
-6. Google Chrome / Chrome Developer Tools
+6. Spyder IDE
+7. Google Chrome / Chrome Developer Tools
 
