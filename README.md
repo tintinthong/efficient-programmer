@@ -1,6 +1,6 @@
 # efficient-programmer
 
-This is a repo about my collected practices of speeding up my programming. 
+This is a repo about my collected practices of speeding up my programming. I am aiming to stop using my mouse.
 
 My workflow includes:
 
