@@ -1,8 +1,12 @@
 Add comments
-CTRL+SHIFT+C
 
+```
+CTRL+SHIFT+C
+```
 
 Move Text 
-OPTION+ARROW KEYS
 
+```
+OPTION+ARROW KEYS
+```
 
