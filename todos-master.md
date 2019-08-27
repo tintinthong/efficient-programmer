@@ -1,8 +1,9 @@
-## Instructions
 
-Copy these items to your daily schedule. 
+## Gmail API
+- [ ] leave server running
 
-## Work
+## Google Drive API
+- [ ] start app engine 
 
 ## RShiny Psychology App
 - [ ] add loading screen when uploading using `gs_upload()`
