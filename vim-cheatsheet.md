@@ -5,6 +5,7 @@ Personalised list of vim commands that help speed up coding efficiency
 - Stop using hjkl (remove fine-grainedness)
 - Use f and t 
 - Type less and be fast. Not type more and sound fast.
+- Feel bumps of `j` to mean down. 
 
 # Disable Keys
 
@@ -23,20 +24,19 @@ inoremap <backspace> <Nop>
 nnoremap <backspace> <Nop>
 ```
 
-# Always Search 
+# Always search 
 
 ```
 /<search-word>
 ```
 
-# Move to Next 
+# Move to matching bracket
 
 ```
-*
-#
+%
 ```
 
-# (Absolute) Line numbers
+# Move to line (absolute)
 
 ```
 :<line-number>
@@ -48,28 +48,28 @@ nnoremap <backspace> <Nop>
 
 # Move within Line
 
+Move cursor to beginning
 ```
 0
-^
 ```
-
+Move cursor to end
 ```
 $
 ```
-
+Move cursor to beginning (insert mode)
 ```
 I
 ```
-
+Move cursor to end (insert mode)
 ```
 A
 ```
-
-
+Move cursor to next <character>
 ```
 f<character>
 ```
 
+Move cursor just before next <character>
 ```
 t<character>
 ```
@@ -85,35 +85,52 @@ Highlight Block
 Ctrl+V
 ```
 
-Yank
+Yank entre line
 ```
 yy
 ```
 
+Delete entire line
 ```
-d
+dd
 ```
 
 Paste
 ```
 P
+p
 ```
+
 
 # Replace Inside
 
-# Insert a Line 
+```
+ciw
+```
 
-insert line between
+```
+ci"
+```
+
+```
+ci(
+```
+
+```
+ci[
+```
+
+# Insert on new line
+
+Insert next 
 ```
 o
 ```
 
-insert line before
+Insert before
 ```
 O
 ```
-
-# Copy Pasting
 
 # Record and apply a Macro
 
@@ -163,19 +180,20 @@ set relativenumber
 d<number-of-lines>j
 ```
 
-
 ```
 set norelativenumber
 ```
 
 # Copy Lines 
 
+Copy lines and paste to current line
 ```
 :<1st-line-number>,<2nd-line-number>co.
 ```
 
 # Delete Lines using Reference
 
+Delete lines
 ```
 :<1st-line-number>,<2nd-line-number>d
 ```
@@ -186,13 +204,6 @@ set norelativenumber
 H
 M
 L
-```
-
-# Adding and removing parantheses 
-
-```
-ciw '' Esc P
-
 ```
 
 # Adding many hyphens (for separator)
@@ -208,14 +219,9 @@ Remember to escape. Many times vs code will screw you over
 <no-of-lines>o 
 ```
 
-Be patient to wait
-
-# Add line to top
-
 ```
 <no-of-lines>O
 ```
 
-# Positioning Hands
 
-Feel bumps of `j` to mean down. 
+
